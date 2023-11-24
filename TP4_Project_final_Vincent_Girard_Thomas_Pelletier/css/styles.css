@@ -5,7 +5,18 @@
 body {
     font-family: Roboto-Condensed;
     background-color: rgb(255, 255, 255);
-    font-size: 6rem;
+}
+
+main{
+
+}
+.custom-card{
+    width: 18rem;
+
+}
+
+.navbar-grey{
+    background-color: #2b3035;
 }
 #ph-brand{
     width: 2.7rem;
