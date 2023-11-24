@@ -1,0 +1,93 @@
+*{
+    background: #1e2021;
+    color: white;  
+}
+body{   
+    background: #1e2021;
+    color: white;  
+}  
+#frm{  
+    background: #1e2021 !important;
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    justify-content: center;
+    margin-top: 1rem; 
+}  
+input {
+    display: block;                 
+    padding: 1rem;                  
+    border: 0.1rem solid rgb(30,32,33);    
+    border-radius: 0.3rem;          
+    margin: 0.5rem;                 
+}
+#button {
+    justify-content: center;
+}
+#champs {
+    width: 100%;
+    display: inline-block;
+}
+.ErrorMessage
+{
+	font-weight: bold;
+	vertical-align: baseline;
+	color: red !important;
+	line-height: 12px;
+	font-family: Arial;
+	text-align: left;
+	text-decoration: none;
+	padding-left: 25px;
+    box-sizing: content-box;
+}
+.ErrorMessage li
+{
+	color: red !important;	
+    display: none;
+}
+*, ::after, ::before {
+    box-sizing: content-box !important;
+}
+#div1{
+    display: flex;
+    flex-direction: row;
+    box-sizing: content-box;
+    justify-content: center;
+}
+
+#div2 #div3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+form{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div.ErrorMessage{
+    padding: 0px !important;
+}
+#p3{
+    margin-top: -1rem;
+}
+#div_principale{
+    justify-content: center;
+}
+.borderPerso{
+    border: 0.1rem solid rgb(59,64,66);    
+    border-radius: 0.3rem;
+}
+a {
+    color:rgb(141,228,251) !important;
+}

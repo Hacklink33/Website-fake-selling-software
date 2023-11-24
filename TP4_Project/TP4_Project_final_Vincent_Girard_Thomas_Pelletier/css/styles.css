@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Roboto-Condensed;
+    src: url(../fonts/Roboto_Condensed/RobotoCondensed-VariableFont_wght.ttf);
+}
+body {
+    font-family: Roboto-Condensed;
+    background-color: rgb(255, 255, 255);
+    font-size: 6rem;
+}
+#ph-brand{
+    width: 2.7rem;
+}
